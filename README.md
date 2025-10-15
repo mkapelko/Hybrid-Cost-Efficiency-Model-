@@ -1,1 +1,1 @@
-# Hybrid-Cost-Efficiency-Model-
+Programming codes, data on court prices and mathematical models accompanying a paper by M. Kapelko, D. Sotiros, S. Tomczak "A hybrid cost efficiency model under fixed and non-fixed prices: A case study on the Polish justice courts ". The codes, data and mathematical models were created as a result of the project funded by the National Science Centre in Poland (grant no. 2023/49/B/HS4/02991).
